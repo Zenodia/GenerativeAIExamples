@@ -6,7 +6,7 @@ metadata:
   author: sim-agent
   version: "1.0"
   category: simulator
-compatibility: Requires simulator tools and Python environment with langchain, pydantic, and nvidia-ai-endpoints packages
+compatibility: Requires simulator tools and Python environment with langchain, pydantic, and langchain-nvidia-ai-endpoints packages
 ---
 
 # DATA File Processing Skill
